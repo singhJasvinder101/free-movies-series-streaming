@@ -27,5 +27,9 @@ MovieStream is accessible across various devices, including desktops, laptops, t
 ### 7. High-Quality Streaming
 Experience high-quality video streaming with resolutions that make your movie-watching experience truly immersive.
 
+### Demo
+[screen-capture (2).webm](https://github.com/singhJasvinder101/free-movies-series-streaming/assets/131908922/40a44f11-03c7-43c0-8522-bc142294af6b)
+
+
 ## Let's Rock
 **Disclaimer:** We do not store files; we only provide and show you content that is hosted elsewhere. Contact the file hosts directly for legal concerns.
